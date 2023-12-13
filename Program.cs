@@ -6,7 +6,7 @@ namespace activitats
         public static void Main()
         {
             const string Msg = "De quin polígon vols calcular l'àrea?\n1) Quadrat\n2) Rectangle\n3) Cercle\n4) Pentàgon\n";
-            const string MenuError = "";
+            const string MenuError = "L'opció escollida no es troba al menú";
             const string InputArist = "Diguem la mesura del costat del polígon en cm:";
             const string InputRadium = "Diguem la mesura del radi del polígon en cm:";
             int option;
