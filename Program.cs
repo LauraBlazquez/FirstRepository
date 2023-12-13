@@ -55,8 +55,7 @@ namespace activitats
         }
         public static double QuadrilateralArea(double aristLong, double aristShort)
         {
-            const int Two = 2;
-            return Math.Round(aristLong * aristShort / Two,2);
+            return Math.Round(aristLong * aristShort,2);
         }
         public static double CercleArea(double num)
         {
