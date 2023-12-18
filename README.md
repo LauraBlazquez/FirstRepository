@@ -32,9 +32,11 @@ Creació del projecte a GitHub:
 ![Crear una rama nueva 17_12_2023 23_44_36](https://github.com/LauraBlazquez/FirstRepository/assets/146936543/3e7fd9f8-9889-46a5-8ecf-e85426fc2b79)
 ![Restauración _basePrograma_ 17_12_2023 23_44_42](https://github.com/LauraBlazquez/FirstRepository/assets/146936543/1977d950-f6f4-4c83-aa30-35071dc97779)
 
-7. Un cop feta l'implementació, farem un commit i push:
+7. Un cop feta l'implementació, farem un commit i push a la nostra branca:
 
-![MyFirstRepository - Microsoft Visual Studio 18_12_2023 0_22_57](https://github.com/LauraBlazquez/FirstRepository/assets/146936543/5b6084ff-c96d-4cea-aecf-08968acfe04a)
+![cp2](https://github.com/LauraBlazquez/FirstRepository/assets/146936543/74748cfc-4483-425c-89bf-f9c2e72b98a9)
+![cap](https://github.com/LauraBlazquez/FirstRepository/assets/146936543/60de37b6-b384-4ef9-8bdc-1154097084fb)
+
 
 8. Per a finalitzar farem un Pull Request a la branca Màster. Si tot concorda i el codi no te incongruencies, el pull tancarà la tasca asignada al push i podrem continuar amb les següents.
 
